@@ -27,7 +27,7 @@ Industriais\
 - Define padrão de dados\
 - Garante interoperabilidade
 
-> Ele é o pivô técnico da solução.
+> Responsável técnico da solução.
 
 ------------------------------------------------------------------------
 
@@ -42,7 +42,7 @@ Industriais\
 - Estrutura experiência do usuário\
 - Base visual e operacional do sistema
 
-> Ele constrói a camada de interação industrial.
+> Constroi a camada de interação industrial.
 
 ------------------------------------------------------------------------
 
@@ -57,7 +57,7 @@ Industriais\
 - Desenvolve aplicativo\
 - Garante sincronização de dados
 
-> Ele transforma a solução em produto funcional mobile.
+> Transforma a solução em produto funcional mobile.
 
 ------------------------------------------------------------------------
 
@@ -73,7 +73,7 @@ Industriais\
 - Conecta áreas técnicas\
 - Estrutura produção científica
 
-> Ele garante a interdisciplinaridade real e metodológica.
+> Garante a interdisciplinaridade real e metodológica.
 
 ------------------------------------------------------------------------
 
