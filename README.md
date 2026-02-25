@@ -3,8 +3,6 @@
 ## 📌 Identificação da Disciplina
 - **Nome:** Projeto Integrador Interdisciplinar III  
 - **Perfil:** Módulo de Projetos – Funções 1, 2 e 3  
-- **Carga Horária Total:** 33h20  
-- **Hora-aula:** 50 minutos  
 - **Modalidade:** Síncrona e Assíncrona  
 
 ---
