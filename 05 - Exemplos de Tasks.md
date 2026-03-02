@@ -176,8 +176,6 @@ Toda task da Entrega 1 deve ser criada como Issue oficial.
 21. Definição de DoR e DoD  
 22. Definição de critérios de aceite padrão  
 
-*(Caso desejado, manter 20 e fundir alguns itens.)*
-
 ---
 
 # 🧾 Template Oficial de Issue
@@ -266,7 +264,3 @@ Ao final da milestone, o projeto deve possuir:
 ✔ Integração IVH estruturada  
 ✔ Backlog organizado  
 ✔ Base científica consolidada  
-
----
-
-Documento oficial de governança do backlog — PI3.
